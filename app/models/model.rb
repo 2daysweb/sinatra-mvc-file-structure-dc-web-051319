@@ -11,5 +11,8 @@ def initialize(name, breed, age)
   @@all << self 
 end
 
+self.all 
+  @@all 
+end 
 
 end 
